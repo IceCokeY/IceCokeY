@@ -9,7 +9,7 @@ class jiang {
 
   new Promise((resolve) => {
     setTimeout(function(){
-      resolve('To learn')
+      resolve('Travel out')
     },infinite)
 
   })
